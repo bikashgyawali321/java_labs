@@ -1,0 +1,5 @@
+Name: Bikash
+Age: 23
+Gender: Male
+Salary: 20000
+---------------
